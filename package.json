@@ -1,0 +1,27 @@
+{
+  "name": "hyperlinked-text",
+  "version": "1.0.0",
+  "description": "Replace matched string patterns with intended HTML elments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alijamaliz/hyperlinked-text.git"
+  },
+  "keywords": [
+    "link",
+    "hyperlink",
+    "a",
+    "regex",
+    "email",
+    "text"
+  ],
+  "author": "Ali Jamali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alijamaliz/hyperlinked-text/issues"
+  },
+  "homepage": "https://github.com/alijamaliz/hyperlinked-text#readme"
+}
